@@ -1,0 +1,403 @@
+{
+ "total": 35231,
+ "uni_names": [
+  "Centre Universitaire Salhi Ahmed de Naâma",
+  "Centre Universitaire de Tindouf",
+  "Le Mans Université / Université Ferhat Abbas Sétif 1",
+  "Université 20 Août 1955 de Skikda",
+  "Université 8 Mai 1945 Guelma",
+  "Université Abdelhamid Ibn Badis de Mostaganem",
+  "Université Abderrahmane Mira de Béjaïa",
+  "Université Abou Bekr Belkaid de Tlemcen",
+  "Université Ahmed Ben Bella d'Oran 1",
+  "Université Ahmed Zabana de Relizane",
+  "Université Akli Mohand Oulhadj - Bouira",
+  "Université Akli Mohand Oulhadj de Bouira",
+  "Université Amar Telidji de Laghouat",
+  "Université Badji Mokhtar d’Annaba",
+  "Université Batna 1 – Hadj Lakhdar",
+  "Université Batna 2",
+  "Université Belhadj Bouchaib d’Aïn Témouchent",
+  "Université Djillali Liabès de Sidi Bel Abbès",
+  "Université Echahid Hamma Lakhdar d’El Oued",
+  "Université Ferhat Abbas Sétif 1",
+  "Université Frères Mentouri Constantine 1",
+  "Université Hammah Rayana d’Oued El Alloued",
+  "Université Hassiba Benbouali de Chlef",
+  "Université Ibn Khaldoun de Tiaret",
+  "Université Kasdi Merbah de Ouargla",
+  "Université Larbi Tebessi de Tébessa",
+  "Université Mohamed Boudiaf de M’Sila",
+  "Université Mohamed Boudiaf de M’sila",
+  "Université Mohamed Cherif Messaadia de Souk Ahras",
+  "Université Mohamed El Bachir El Ibrahimi de Bordj Bou Arréridj",
+  "Université Mohamed Khider de Biskra",
+  "Université Mohammed Seddik Ben Yahia - Jijel",
+  "Université Mouloud Mammeri de Tizi Ouzou",
+  "Université M’hamed Bougara de Boumerdès",
+  "Université Saâd Dahleb de Blida 1",
+  "Université Ziane Achour de Djelfa",
+  "Université de Ghardaïa",
+  "Université des Sciences et de la Technologie Houari Boumediene (USTHB)",
+  "Université d’Alger 1 Benyoucef Benkhedda",
+  "École Nationale Supérieure Agronomique (ENSA)"
+ ],
+ "dict_hash": "fa8a3eb531",
+ "shards": [
+  {
+   "f": "shard-001.json",
+   "h": "3b115da6ba",
+   "n": 500
+  },
+  {
+   "f": "shard-002.json",
+   "h": "ac6963d788",
+   "n": 500
+  },
+  {
+   "f": "shard-003.json",
+   "h": "85408679ef",
+   "n": 500
+  },
+  {
+   "f": "shard-004.json",
+   "h": "1bec1f50df",
+   "n": 500
+  },
+  {
+   "f": "shard-005.json",
+   "h": "56efa94d30",
+   "n": 500
+  },
+  {
+   "f": "shard-006.json",
+   "h": "56891b4ac2",
+   "n": 500
+  },
+  {
+   "f": "shard-007.json",
+   "h": "25fe87dc57",
+   "n": 500
+  },
+  {
+   "f": "shard-008.json",
+   "h": "967d1e4b2d",
+   "n": 500
+  },
+  {
+   "f": "shard-009.json",
+   "h": "639bc3bd89",
+   "n": 500
+  },
+  {
+   "f": "shard-010.json",
+   "h": "3dca414243",
+   "n": 500
+  },
+  {
+   "f": "shard-011.json",
+   "h": "19de40726a",
+   "n": 500
+  },
+  {
+   "f": "shard-012.json",
+   "h": "348def4d7f",
+   "n": 500
+  },
+  {
+   "f": "shard-013.json",
+   "h": "1b63d70a24",
+   "n": 500
+  },
+  {
+   "f": "shard-014.json",
+   "h": "f378087be9",
+   "n": 500
+  },
+  {
+   "f": "shard-015.json",
+   "h": "c6b349064c",
+   "n": 500
+  },
+  {
+   "f": "shard-016.json",
+   "h": "2aa5a4afa7",
+   "n": 500
+  },
+  {
+   "f": "shard-017.json",
+   "h": "e98ca081f2",
+   "n": 500
+  },
+  {
+   "f": "shard-018.json",
+   "h": "ad8ba75066",
+   "n": 500
+  },
+  {
+   "f": "shard-019.json",
+   "h": "1f70d4f6a0",
+   "n": 500
+  },
+  {
+   "f": "shard-020.json",
+   "h": "787dc51a0b",
+   "n": 500
+  },
+  {
+   "f": "shard-021.json",
+   "h": "13e7e9339e",
+   "n": 500
+  },
+  {
+   "f": "shard-022.json",
+   "h": "4f832e3eea",
+   "n": 500
+  },
+  {
+   "f": "shard-023.json",
+   "h": "5e3fb7835c",
+   "n": 500
+  },
+  {
+   "f": "shard-024.json",
+   "h": "67eaf8e11f",
+   "n": 500
+  },
+  {
+   "f": "shard-025.json",
+   "h": "33ae3f5fc7",
+   "n": 500
+  },
+  {
+   "f": "shard-026.json",
+   "h": "6f30c22191",
+   "n": 500
+  },
+  {
+   "f": "shard-027.json",
+   "h": "9d80e054cf",
+   "n": 500
+  },
+  {
+   "f": "shard-028.json",
+   "h": "eb39437c18",
+   "n": 500
+  },
+  {
+   "f": "shard-029.json",
+   "h": "367a2916fe",
+   "n": 500
+  },
+  {
+   "f": "shard-030.json",
+   "h": "3491d1a276",
+   "n": 500
+  },
+  {
+   "f": "shard-031.json",
+   "h": "2dbda2b6e1",
+   "n": 500
+  },
+  {
+   "f": "shard-032.json",
+   "h": "77084c3091",
+   "n": 500
+  },
+  {
+   "f": "shard-033.json",
+   "h": "252e9b196a",
+   "n": 500
+  },
+  {
+   "f": "shard-034.json",
+   "h": "d0820783cc",
+   "n": 500
+  },
+  {
+   "f": "shard-035.json",
+   "h": "20c00eeef9",
+   "n": 500
+  },
+  {
+   "f": "shard-036.json",
+   "h": "0eecccfd23",
+   "n": 500
+  },
+  {
+   "f": "shard-037.json",
+   "h": "b48ea9ecca",
+   "n": 500
+  },
+  {
+   "f": "shard-038.json",
+   "h": "4dbb00bb69",
+   "n": 500
+  },
+  {
+   "f": "shard-039.json",
+   "h": "5052276a7e",
+   "n": 500
+  },
+  {
+   "f": "shard-040.json",
+   "h": "940b6a49c2",
+   "n": 500
+  },
+  {
+   "f": "shard-041.json",
+   "h": "db30d64933",
+   "n": 500
+  },
+  {
+   "f": "shard-042.json",
+   "h": "1c25061f64",
+   "n": 500
+  },
+  {
+   "f": "shard-043.json",
+   "h": "15d466637c",
+   "n": 500
+  },
+  {
+   "f": "shard-044.json",
+   "h": "839e5914ab",
+   "n": 500
+  },
+  {
+   "f": "shard-045.json",
+   "h": "ee1e2e8475",
+   "n": 500
+  },
+  {
+   "f": "shard-046.json",
+   "h": "08ba8e2dc8",
+   "n": 500
+  },
+  {
+   "f": "shard-047.json",
+   "h": "b276f1d75f",
+   "n": 500
+  },
+  {
+   "f": "shard-048.json",
+   "h": "9b87e2153e",
+   "n": 500
+  },
+  {
+   "f": "shard-049.json",
+   "h": "301d8fcfdb",
+   "n": 500
+  },
+  {
+   "f": "shard-050.json",
+   "h": "5c6e55b19b",
+   "n": 500
+  },
+  {
+   "f": "shard-051.json",
+   "h": "cb6a687b07",
+   "n": 500
+  },
+  {
+   "f": "shard-052.json",
+   "h": "581c72e276",
+   "n": 500
+  },
+  {
+   "f": "shard-053.json",
+   "h": "383ca93696",
+   "n": 500
+  },
+  {
+   "f": "shard-054.json",
+   "h": "55c020a7ca",
+   "n": 500
+  },
+  {
+   "f": "shard-055.json",
+   "h": "96552fb253",
+   "n": 500
+  },
+  {
+   "f": "shard-056.json",
+   "h": "631586ac96",
+   "n": 500
+  },
+  {
+   "f": "shard-057.json",
+   "h": "e228145777",
+   "n": 500
+  },
+  {
+   "f": "shard-058.json",
+   "h": "f406784a30",
+   "n": 500
+  },
+  {
+   "f": "shard-059.json",
+   "h": "0e402651be",
+   "n": 500
+  },
+  {
+   "f": "shard-060.json",
+   "h": "d005be91be",
+   "n": 500
+  },
+  {
+   "f": "shard-061.json",
+   "h": "7012312638",
+   "n": 500
+  },
+  {
+   "f": "shard-062.json",
+   "h": "1411625dfe",
+   "n": 500
+  },
+  {
+   "f": "shard-063.json",
+   "h": "dc982eb15c",
+   "n": 500
+  },
+  {
+   "f": "shard-064.json",
+   "h": "1d2e97cee1",
+   "n": 500
+  },
+  {
+   "f": "shard-065.json",
+   "h": "03f3da5fcb",
+   "n": 500
+  },
+  {
+   "f": "shard-066.json",
+   "h": "5b77656f44",
+   "n": 500
+  },
+  {
+   "f": "shard-067.json",
+   "h": "93d935833f",
+   "n": 500
+  },
+  {
+   "f": "shard-068.json",
+   "h": "022ee97c41",
+   "n": 500
+  },
+  {
+   "f": "shard-069.json",
+   "h": "50a71a7cf6",
+   "n": 500
+  },
+  {
+   "f": "shard-070.json",
+   "h": "75a7691c32",
+   "n": 500
+  },
+  {
+   "f": "shard-071.json",
+   "h": "471c18572f",
+   "n": 231
+  }
+ ]
+}
